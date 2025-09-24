@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there I'm Brenda!!
 
+Achievements: Won first place in the 2024 Fitch Group Codeathon 
+Skills: C++, C, Python, Java, VS Code, Eclipse
 <!--
 **brendaromero3/brendaromero3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
