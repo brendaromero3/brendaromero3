@@ -1,18 +1,68 @@
-## Hi there I'm Brenda!!
+## Hi there, I'm Brenda!!
 
-Achievements: Won first place in the 2024 Fitch Group Codeathon 
-Skills: C++, C, Python, Java, R, VS Code, Eclipse
-Courses: Program Design, Data Structures, Machine Organization, Systems Programming
+💻✖️ Senior at The University of Illinois Chicago, majoring in Computer Science and minoring in Mathematics!!
 
-I first discovered my love for programming as a senior in high school, reflecting on a robotics class I took as a sophomore. While I enjoyed the hands-on creative projects, such as building a cardboard chair, the most memorable experience was programming a simple game. It was my first introduction to coding which made it quite challenging. Overcoming the frustrations of debugging and finally seeing the finished result was one of the most rewarding moments I've had. It sparked my love for programming and brought me to where I am today. 
+From debugging my first Python program in high school to developing a new feature during my internship at PatientPoint, I've discovered that the most rewarding part of programming is overcoming challenges and building solutions that make meaningful impacts. 
 
-Reminiscing on those moments motivated me to take my first formal programming course, Programming Design I, over the summer. Building my first real projects confirmed that I had chosen the right path. 
+The most memorable experience I had in my high school robotics class was programming a simple game in Python. It was my first introduction to coding, which made it quite challenging. Overcoming the frustrations of debugging and finally seeing the finished result was one of the most rewarding moments I've had. It sparked my love for programming and brought me to where I am today. 
 
-Eager to keep learning and applying my skills, I participated in the 2023 Fitch Group Codeathon. There, I collaborated with three teammates to design the winning web redesign for Big Shoulders Fund. I was especially passionate about making the site accessible and mobile-friendly, ensuring it worked seamlessly across devices, something the existing site lacked.
+I'm excited to continue growing as a programmer, building my skills, and taking on new challenges!
 
-Most recently, I had the opportunity to intern at PatientPoint during the month of May, where I gained hands-on experience working with HTML, PHP, and DDEV. I contributed to the implementation of a content preview capability for the IXR7 device, allowing the Content Creation team to refine their work and ensure content quality. Discussing our project with the team was eye-opening, as they shared how much of a difference the preview button would make in their daily work. This experience not only deepened my interest in software development but also showed me the impact that small features can have on users.
+Achievements: Won first place in the 2024 Fitch Group Codeathon, College of Engineering Dean’s List (Fall 23, Spring 24, Fall 24, Spring 25, Fall 25, Spring 26), became a Break Through Tech AI Fellow
 
-I'm excited to continue growing as a programmer, building my skills, and taking on new challenges.
+## ⚙️ Tech Stack
+
+Languages: C++, C, Python, Java, R, GO, F#
+
+Data Science: Pandas, Numpy, sickit-learn
+
+Tools: VS Code, Eclipse, Jupyter Notebooks, RStudio, GitHub
+
+Databases: SQL, PostgreSQL
+
+Courses: Program Design, Data Structures, Machine Organization, Systems Programming, Software Design, Database Systems, Computer Algorithms I
+
+## ⌨️⚒️ Projects
+
+### 🃏♣️ Poker Game
+
+I created a program that allows the player to connect to a server and play poker. The server program allows the user to start a server and visualize the game information of any player connected to the server. The client program allows the player to start the game and choose their ante wager along with an optional pair plus wager. Upon confirming their wagers, the player can see their cards and choose to continue playing or folding. 
+
+Tech Stack: Java, JavaFX, Eclipse
+
+Learnings: Creating a server and client using JavaFX, sending information from the server to the client
+
+<ins>Demo Video:</ins> [Watch here!](https://youtu.be/3tKar5eH844)
+
+### 🎱 Keno Game
+
+I created a program that allows the player to play a simplified version of the lottery game Keno! The player is able to choose their number of spots, their number of drawings, and their actual spots. Upon confirming their choices, the player is able to see the drawing information along with their winnings.
+
+Tech Stack: Java, JavaFX, Eclipse
+
+Learnings: Using JavaFX
+
+<ins>Demo Video:</ins> [Watch here!](https://drive.google.com/file/d/1-1NHDe5Cfl6oU-0-0i4ubESgjXtGQyTv/view?usp=sharing) 
+
+## 🏫💭 What I'm learning
+
+I am currently taking a Machine Learning Foundations course through Cornell University and Break Through Tech as part of Break Through Tech's AI/ML program. I am learning different Machine Learning concepts and techniques such as supervised and unsupervised learning, feature engineering, decision trees, and logistic regression. As I have been taking the course, I have practiced these techniques using Python and Jupyter Notebooks. I am excited to learn more and practice these concepts when completing my challenge projects throughout the fall and spring!
+
+## 📩 How to Reach Me:
+
+<ins>Email:</ins> breromero33@gmail.com
+
+<ins>LinkedIn:</ins> [Click here!](https://www.linkedin.com/in/brendaromero-/)
+
+## 📈 My GitHub Stats!
+![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaromero3&show_icons=true&theme=rose_pine)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+## 😛 Hobbies and Interests
+
+I love listening to music, especially while programming! It helps keep me motivated and allows me destress. In my freetime I like to go to concerts, crochet, make stickers, hangout with my cats, and talk with friends. I love making stickers and passing them out at concerts! 
+
 
 <!--
 **brendaromero3/brendaromero3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
