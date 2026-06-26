@@ -54,7 +54,7 @@ I created a program that allows the player to play a simplified version of the l
 ## 📈 My GitHub Stats!
 ![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaromero3&show_icons=true&theme=rose_pine)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breromero3&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendaromero3&layout=compact)
 
 ## 😛 Hobbies and Interests
 
