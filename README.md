@@ -29,27 +29,22 @@ Achievements: Won first place in the 2024 Fitch Group Codeathon, College of Engi
 
 I created a program that allows the player to connect to a server and play poker. The server program allows the user to start a server and visualize the game information of any player connected to the server. The client program allows the player to start the game and choose their ante wager along with an optional pair plus wager. Upon confirming their wagers, the player can see their cards and choose to continue playing or folding. 
 
-**Tech Stack:** Java, JavaFX, Eclipse
-
-**Learnings:** Creating a server and client using JavaFX, sending information from the server to the client
-
-**<ins>Demo Video:</ins>** [Watch here!](https://youtu.be/3tKar5eH844)
+* **Tech Stack:** Java, JavaFX, Eclipse
+* **Learnings:** Creating a server and client using JavaFX, sending information from the server to the client
+* **<ins>Demo Video:</ins>** [Watch here!](https://youtu.be/3tKar5eH844)
 
 ### 🎱 Keno Game
 
 I created a program that allows the player to play a simplified version of the lottery game Keno! The player is able to choose their number of spots, their number of drawings, and their actual spots. Upon confirming their choices, the player is able to see the drawing information along with their winnings.
 
-**Tech Stack:** Java, JavaFX, Eclipse
-
-**Learnings:** Using JavaFX
-
-**<ins>Demo Video:</ins>** [Watch here!](https://drive.google.com/file/d/1-1NHDe5Cfl6oU-0-0i4ubESgjXtGQyTv/view?usp=sharing) 
+* **Tech Stack:** Java, JavaFX, Eclipse
+* **Learnings:** Using JavaFX
+* **<ins>Demo Video:</ins>** [Watch here!](https://drive.google.com/file/d/1-1NHDe5Cfl6oU-0-0i4ubESgjXtGQyTv/view?usp=sharing) 
 
 ## 📩 How to Reach Me:
 
-**<ins>Email:</ins>** breromero33@gmail.com
-
-**<ins>LinkedIn:</ins>** [Click here!](https://www.linkedin.com/in/brendaromero-/)
+* **<ins>Email:</ins>** breromero33@gmail.com
+* **<ins>LinkedIn:</ins>** [Click here!](https://www.linkedin.com/in/brendaromero-/)
 
 ## 📈 My GitHub Stats!
 ![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaromero3&show_icons=true&theme=rose_pine)
