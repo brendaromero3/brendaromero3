@@ -12,15 +12,15 @@ Achievements: Won first place in the 2024 Fitch Group Codeathon, College of Engi
 
 ## ⚙️ Tech Stack
 
-Languages: C++, C, Python, Java, R, GO, F#
+* Languages: C++, C, Python, Java, R, GO, F#
 
-Data Science: Pandas, Numpy, sickit-learn
+* Data Science: Pandas, Numpy, sickit-learn
 
-Tools: VS Code, Eclipse, Jupyter Notebooks, RStudio, GitHub
+* Tools: VS Code, Eclipse, Jupyter Notebooks, RStudio, GitHub
 
-Databases: SQL, PostgreSQL
+* Databases: SQL, PostgreSQL
 
-Courses: Program Design, Data Structures, Machine Organization, Systems Programming, Software Design, Database Systems, Computer Algorithms I
+* Courses: Program Design, Data Structures, Machine Organization, Systems Programming, Software Design, Database Systems, Computer Algorithms I
 
 ## ⌨️⚒️ Projects
 
