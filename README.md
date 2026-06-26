@@ -1,6 +1,6 @@
 ## Hi there, I'm Brenda!!
 
-💻✖️ Senior at The University of Illinois Chicago, majoring in Computer Science and minoring in Mathematics!!
+💻✖️ **Senior at The University of Illinois Chicago, majoring in Computer Science and minoring in Mathematics!!**
 
 From debugging my first Python program in high school to developing a new feature during my internship at PatientPoint, I've discovered that the most rewarding part of programming is overcoming challenges and building solutions that make meaningful impacts. 
 
@@ -8,12 +8,12 @@ The most memorable experience I had in my high school robotics class was program
 
 I'm excited to continue growing as a programmer, building my skills, and taking on new challenges!
 
-Achievements: Won first place in the 2024 Fitch Group Codeathon, College of Engineering Dean’s List (Fall 23, Spring 24, Fall 24, Spring 25, Fall 25, Spring 26), became a Break Through Tech AI Fellow
+**Achievements:** Won first place in the 2023 Fitch Group Codeathon, College of Engineering Dean’s List (Fall 23, Spring 24, Fall 24, Spring 25, Fall 25, Spring 26), became a Break Through Tech AI Fellow
 
 ## ⚙️ Tech Stack
 
 * **Languages:** C++, C, Python, Java, R, GO, F#
-* **Data Science:** Pandas, Numpy, sickit-learn
+* **Data Science:** Pandas, Numpy, scikit-learn
 * **Tools:** VS Code, Eclipse, Jupyter Notebooks, RStudio, GitHub
 * **Databases:** SQL, PostgreSQL
 * **Courses:** Program Design, Data Structures, Machine Organization, Systems Programming, Software Design, Database Systems, Computer Algorithms I
