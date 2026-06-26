@@ -18,6 +18,11 @@ Achievements: Won first place in the 2024 Fitch Group Codeathon, College of Engi
 * **Databases:** SQL, PostgreSQL
 * **Courses:** Program Design, Data Structures, Machine Organization, Systems Programming, Software Design, Database Systems, Computer Algorithms I
 
+## 🏫💭 What I'm learning
+
+<img width="200" align="right" hspace="20" alt="Screenshot 2026-06-25 110348" src="https://github.com/user-attachments/assets/5325dd9b-b598-4ec5-899f-636dcdb3f79c" /> I am currently taking a Machine Learning Foundations course through Cornell University and Break Through Tech as part of Break Through Tech's AI/ML program. I am learning different Machine Learning concepts and techniques such as supervised and unsupervised learning, feature engineering, decision trees, and logistic regression. As I have been taking the course, I have practiced these techniques using Python and Jupyter Notebooks. I am excited to learn more and practice these concepts when completing my challenge projects throughout the fall and spring! 
+<br clear="all" />
+
 ## ⌨️⚒️ Projects
 
 ### 🃏♣️ Poker Game
@@ -40,10 +45,6 @@ I created a program that allows the player to play a simplified version of the l
 
 **<ins>Demo Video:</ins>** [Watch here!](https://drive.google.com/file/d/1-1NHDe5Cfl6oU-0-0i4ubESgjXtGQyTv/view?usp=sharing) 
 
-## 🏫💭 What I'm learning
-
-I am currently taking a Machine Learning Foundations course through Cornell University and Break Through Tech as part of Break Through Tech's AI/ML program. I am learning different Machine Learning concepts and techniques such as supervised and unsupervised learning, feature engineering, decision trees, and logistic regression. As I have been taking the course, I have practiced these techniques using Python and Jupyter Notebooks. I am excited to learn more and practice these concepts when completing my challenge projects throughout the fall and spring!
-
 ## 📩 How to Reach Me:
 
 **<ins>Email:</ins>** breromero33@gmail.com
@@ -53,7 +54,7 @@ I am currently taking a Machine Learning Foundations course through Cornell Univ
 ## 📈 My GitHub Stats!
 ![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaromero3&show_icons=true&theme=rose_pine)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breromero3&layout=compact)
 
 ## 😛 Hobbies and Interests
 
