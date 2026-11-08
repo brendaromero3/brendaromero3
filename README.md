@@ -6,21 +6,33 @@ From debugging my first Python program in high school to developing a new featur
 
 The most memorable experience I had in my high school robotics class was programming a simple game in Python. It was my first introduction to coding, which made it quite challenging. Overcoming the frustrations of debugging and finally seeing the finished result was one of the most rewarding moments I've had. It sparked my love for programming and brought me to where I am today. 
 
-I'm excited to continue growing as a programmer, building my skills, and taking on new challenges!
+I'm an aspiring software engineer, looking for an internship or full-time job in software engineering! As a software engineer, I look forward to continue growing as a programmer, building my skills, and taking on new challenges!
 
 **Achievements:** Won first place in the 2023 Fitch Group Codeathon, College of Engineering Dean’s List (Fall 23, Spring 24, Fall 24, Spring 25, Fall 25, Spring 26), became a Break Through Tech AI Fellow
 
 ## ⚙️ Tech Stack
 
-* **Languages:** C++, C, Python, Java, R, GO, F#
-* **Data Science:** Pandas, Numpy, scikit-learn
-* **Tools:** VS Code, Eclipse, Jupyter Notebooks, RStudio, GitHub
+* **Languages:** Python, C++, C, Java, R, GO, F#
+* **Data Science:** Pandas, Numpy, Scikit-Learn
+* **Tools:** VS Code, Eclipse, Jupyter Notebooks, Google Colab, RStudio, GitHub
 * **Databases:** SQL, PostgreSQL
-* **Courses:** Program Design, Data Structures, Machine Organization, Systems Programming, Software Design, Database Systems, Computer Algorithms I
+* **Courses:** Program Design, Programming Practicum, Data Structures, Machine Organization, Systems Programming, Software Design, Database Systems, Computer Algorithms I, Database Systems, Introduction to Data Science, Natural Language Processing 
+
 
 ## 🏫💭 What I'm learning
 
-<img width="200" align="right" hspace="20" alt="Screenshot 2026-06-25 110348" src="https://github.com/user-attachments/assets/5325dd9b-b598-4ec5-899f-636dcdb3f79c" /> I am currently taking a Machine Learning Foundations course through Cornell University and Break Through Tech as part of Break Through Tech's AI/ML program. I am learning different Machine Learning concepts and techniques such as supervised and unsupervised learning, feature engineering, decision trees, and logistic regression. As I have been taking the course, I have practiced these techniques using Python and Jupyter Notebooks. I am excited to learn more and practice these concepts when completing my challenge projects throughout the fall and spring! 
+<img width="400" align="right" hspace="20" alt="Screenshot 2026-11-07 202459" src="https://github.com/user-attachments/assets/9fb8da7f-bdb5-422b-9a6a-9b2a3e2e6567" /> I am currently 
+working on my challenge project through Cornell University and Break Through Tech as part of Break Through Tech's AI/ML program. I am on team Google 2B working on FaithfulMed. 
+
+Have you ever gone to the doctor and read your medical reports. I bet it was difficult to understand what exactly they were saying. Medical reports are essential and important information. They inform you about what is going on with your body and can help you better understand what you need to do to stay healthy. Thus, being unable to understand medical reports is essential. FaithfulMed aims to simplify medical reports in a way that is easy for patients to understand. That way you know what is going on. 
+
+As I have worked on FaithfulMed, I have been able to practice the concepts I learned in the Machine Learning Foundations course that I took through Cornell University this summer. That does not mean I have stopped learning, though. Throughout my time working on this project I have learned a lot. I learned about evaluation harnesses and workbenches. As I learned about them, I was able to successfully create an evaluation harness for my agent, the Readability agent and our Baseline. I was also able to create workbenches that allowed us to test out the Readability agent and view the Baseline agent's metrics on our data sets. 
+
+Not only have I been learning new technical skills, I have also learned how essential communication is. I am excited to learn more and practice the concepts I learned over the summer when completing my next Break Through Tech AI project in the spring! 
+
+In school, I have been taking four courses. I am currently taking Introduction to Data Science and Natural Language Processing. As part of my mathematics minor, I am also taking Statistical Methods and Computing along with Models in Applied Mathematics. In Statistical Methods and Computing, I have been learning about linear regression models and 1-way ANOVA. In Models in Applied Mathematics, I have been learning about SIR models, travelling waves, and reaction-diffusion equations.
+
+In Introduction to Data Science, I learned about the lifecycle of data science. First you must formulate a question or problem. Then, you move on to acquiring and cleaning the data. After, you must perform exploratory data analysis. As you preform EDA, you go back and forth with exploring and cleaning the data or formulating a new question/problem.
 <br clear="all" />
 
 ## ⌨️⚒️ Projects
