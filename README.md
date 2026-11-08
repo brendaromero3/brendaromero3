@@ -32,10 +32,20 @@ Not only have I been learning new technical skills, I have also learned how esse
 
 In school, I have been taking four courses. I am currently taking Introduction to Data Science and Natural Language Processing. As part of my mathematics minor, I am also taking Statistical Methods and Computing along with Models in Applied Mathematics. In Statistical Methods and Computing, I have been learning about linear regression models and 1-way ANOVA. In Models in Applied Mathematics, I have been learning about SIR models, travelling waves, and reaction-diffusion equations.
 
-In Introduction to Data Science, I learned about the lifecycle of data science. First you must formulate a question or problem. Then, you move on to acquiring and cleaning the data. After, you must perform exploratory data analysis. As you preform EDA, you go back and forth with exploring and cleaning the data or formulating a new question/problem.
+In Introduction to Data Science, I learned about the lifecycle of data science. First you must formulate a question or problem. Then, you move on to acquiring and cleaning the data. After, you must perform exploratory data analysis. As you preform EDA, you go back and forth with exploring and cleaning the data or formulating a new question/problem. Then you make predictions and inferences. Lastly, you write reports, create decisions, and solutions. Recently, we started learning about supervised and unsupervised machine learning models such as linear regression and KNN. 
+
+In Natural Language Processing, I have learned about tokenization, N-gram language models, Naive Bayes, POS tagging, NER, hidden Markov models, and more. I've learned so much in this class. With new topics each week, I have gotten to learn a lot about NLP. 
 <br clear="all" />
 
 ## ⌨️⚒️ Projects
+
+### 🩺📄 FaithfulMed
+
+I implemented the Readability agent, one of the five agents in our pipeline. The Readability agent takes in a medical report draft and simplifies it to <= 8th-grade Flesch Kincaid reading level. This modifies the work done by the Extractor, Simplifier, Verifier, and Refiner agents to ensure that the final report is easily understandable. In addition to creating the Readability agent, I also worked on the Baseline. I implemented the Baseline agent and ran it on all of our data sets to get our Baseline metrics. 
+
+* **Tech Stack:** Python, Gemini, VS Code
+* **Learnings:** Creating two different agents, evaluation harnesses, and workbenches
+* **<ins>GitHub Link:</ins>** [Click Here!](https://github.com/Break-Through-Tech/Google-2B-faithfulmed-a-multi-agent-system-for-faithful-patient-friendly-medical-explanations)
 
 ### 🃏♣️ Poker Game
 
